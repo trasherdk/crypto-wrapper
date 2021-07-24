@@ -50,6 +50,22 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "fncolon",
+      "name": "Muhammad Fauzan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50759463?v=4",
+      "profile": "https://linktr.ee/funfuncfunction",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "review",
+        "security",
+        "tool",
+        "test",
+        "design"
+      ]
     }
   ],
   "repoType": "github",
