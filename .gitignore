@@ -1,4 +1,10 @@
-node_modules
-dist
+/.vscode
+
+/node_modules
+/dist
 docker-compose.yml
-docker
+/docker
+
+# since this repository standardize to 
+# npm , so yarn.lock will be ignored
+yarn.lock

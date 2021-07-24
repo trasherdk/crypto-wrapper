@@ -21,7 +21,8 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/45036724?v=4",
       "profile": "http://ahmadsaugi.com",
       "contributions": [
-        "doc"
+        "doc",
+        "design"
       ]
     },
     {
@@ -50,6 +51,22 @@
       "contributions": [
         "ideas",
         "security"
+      ]
+    },
+    {
+      "login": "fncolon",
+      "name": "Muhammad Fauzan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50759463?v=4",
+      "profile": "https://linktr.ee/funfuncfunction",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "review",
+        "security",
+        "tool",
+        "test",
+        "design"
       ]
     }
   ],

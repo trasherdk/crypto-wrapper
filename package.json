@@ -1,24 +1,30 @@
 {
   "name": "encryptlab",
-  "version": "0.3.0",
+  "version": "0.3.1",
+  "description": "A Free and Comprehensive Encrypt and Decrypt Tools Website with example code in Node.js.",
   "main": "src/index.js",
   "bin": {
     "encryptlab": "./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fncolon/encryptlab/"
   },
   "scripts": {
     "dev": "node ./bin/www",
     "watch": "./node_modules/.bin/nodemon ./bin/www -e .ejs,.js,.html",
     "watch:css": "./node_modules/.bin/postcss public/stylesheets/tailwind.css -o public/stylesheets/style.css --watch",
     "build:css": "./node_modules/.bin/postcss public/stylesheets/tailwind.css -o public/stylesheets/style.css",
-    "test": "./node_modules/.bin/jest"
+    "test": "jest"
   },
+  "license": "MIT",
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
     "autoprefixer": "^10.2.5",
     "compression": "^1.7.4",
     "cookie-parser": "~1.4.4",
     "cors": "^2.8.5",
-    "cssnano": "^4.1.10",
+    "cssnano": "^5.0.7",
     "debug": "~2.6.9",
     "ejs": "^3.1.5",
     "express": "~4.16.1",

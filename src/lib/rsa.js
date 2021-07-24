@@ -1,15 +1,15 @@
 const crypto = require("crypto");
 
-module.exports.encrypt = async (data,publicKey) => {
-    const buffer = Buffer.from(data);
-    const encrypted = crypto.publicEncrypt(publicKey, buffer);
+module.exports.encrypt = async (data, publicKey) => {
+  const buffer = Buffer.from(data);
+  const encrypted = crypto.publicEncrypt(publicKey, buffer);
 
-    return encrypted.toString("base64");
-}
+  return encrypted.toString("base64");
+};
 
-module.exports.decrypt = async (data,privateKey) => {
-    const buffer = Buffer.from(data, "base64");
-    const decrypted = crypto.privateDecrypt(privateKey, buffer);
+module.exports.decrypt = async (data, privateKey) => {
+  const buffer = Buffer.from(await data, "base64");
+  const decrypted = crypto.privateDecrypt(privateKey, buffer);
 
-    return decrypted.toString("utf8");
-}
+  return decrypted.toString("utf8");
+};
