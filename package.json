@@ -5,6 +5,10 @@
   "bin": {
     "encryptlab": "./bin/www"
   },
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/fncolon/encryptlab/"
+  },
   "scripts": {
     "dev": "node ./bin/www",
     "watch": "./node_modules/.bin/nodemon ./bin/www -e .ejs,.js,.html",
@@ -12,6 +16,7 @@
     "build:css": "./node_modules/.bin/postcss public/stylesheets/tailwind.css -o public/stylesheets/style.css",
     "test": "./node_modules/.bin/jest"
   },
+  "license": "MIT",
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
     "autoprefixer": "^10.2.5",
