@@ -106,7 +106,7 @@ Thanks to all of you who spend times to build this repository.
     <td align="center"><a href="http://ahmadsaugi.com"><img src="https://avatars2.githubusercontent.com/u/45036724?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Ahmad Saugi</b></sub></a><br /><a href="https://github.com/fncolon/encryptlab/commits?author=zuramai" title="Documentation">📖</a></td>
     <td align="center"><a href="https://andriawan.com"><img src="https://avatars3.githubusercontent.com/u/13099373?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Muhammad Irwan Andriawan</b></sub></a><br /><a href="#tool-andriawan" title="Tools">🔧</a></td>
     <td align="center"><a href="https://www.dihak.my.id"><img src="https://avatars3.githubusercontent.com/u/10445482?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Dihak</b></sub></a><br /><a href="#design-dihak" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/trasherdk"><img src="https://avatars.githubusercontent.com/u/5003891?v=4?s=120" width="120px;" alt=""/><br /><sub><b>TrasherDK</b></sub></a><br /><a href="#ideas-trasherdk" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/trasherdk"><img src="https://avatars.githubusercontent.com/u/5003891?v=4?s=120" width="120px;" alt=""/><br /><sub><b>TrasherDK</b></sub></a><br /><a href="#ideas-trasherdk" title="Ideas, Planning, & Feedback">🤔</a> <a href="#security-trasherdk" title="Security">🛡️</a></td>
   </tr>
 </table>
 
