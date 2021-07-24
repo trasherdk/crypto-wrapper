@@ -5,5 +5,6 @@
 docker-compose.yml
 /docker
 
-package-lock.json
+# since this repository standardize to 
+# npm , so yarn.lock will be ignored
 yarn.lock
