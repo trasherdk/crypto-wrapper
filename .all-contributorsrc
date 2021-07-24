@@ -7,12 +7,19 @@
   "imageSize": 120,
   "contributors": [
     {
-      "login": "fauzan121002",
+      "login": "fncolon",
       "name": "Muhammad Fauzan",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/50759463?v=4",
-      "profile": "http://fauzan.tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50759463?v=4",
+      "profile": "https://linktr.ee/funfuncfunction",
       "contributions": [
-        "maintenance"
+        "code",
+        "doc",
+        "example",
+        "review",
+        "security",
+        "tool",
+        "test",
+        "design"
       ]
     },
     {
@@ -21,8 +28,7 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/45036724?v=4",
       "profile": "http://ahmadsaugi.com",
       "contributions": [
-        "doc",
-        "design"
+        "doc"
       ]
     },
     {
@@ -49,24 +55,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/5003891?v=4",
       "profile": "https://github.com/trasherdk",
       "contributions": [
-        "ideas",
-        "security"
-      ]
-    },
-    {
-      "login": "fncolon",
-      "name": "Muhammad Fauzan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/50759463?v=4",
-      "profile": "https://linktr.ee/funfuncfunction",
-      "contributions": [
-        "code",
-        "doc",
-        "example",
-        "review",
-        "security",
-        "tool",
-        "test",
-        "design"
+        "ideas"
       ]
     }
   ],
