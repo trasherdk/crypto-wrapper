@@ -1,6 +1,6 @@
 {
   "projectName": "encryptlab",
-  "projectOwner": "fauzan121002",
+  "projectOwner": "fncolon",
   "files": [
     "README.md"
   ],
@@ -40,6 +40,15 @@
       "profile": "https://www.dihak.my.id",
       "contributions": [
         "design"
+      ]
+    },
+    {
+      "login": "trasherdk",
+      "name": "TrasherDK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5003891?v=4",
+      "profile": "https://github.com/trasherdk",
+      "contributions": [
+        "ideas"
       ]
     }
   ],
