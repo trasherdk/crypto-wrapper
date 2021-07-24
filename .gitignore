@@ -1,4 +1,9 @@
-node_modules
-dist
+/.vscode
+
+/node_modules
+/dist
 docker-compose.yml
-docker
+/docker
+
+package-lock.json
+yarn.lock
