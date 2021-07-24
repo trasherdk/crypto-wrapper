@@ -102,7 +102,6 @@ Thanks to all of you who spend times to build this repository.
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://fauzan.tech"><img src="https://avatars3.githubusercontent.com/u/50759463?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Muhammad Fauzan</b></sub></a><br /><a href="#maintenance-fauzan121002" title="Maintenance">🚧</a></td>
     <td align="center"><a href="http://ahmadsaugi.com"><img src="https://avatars2.githubusercontent.com/u/45036724?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Ahmad Saugi</b></sub></a><br /><a href="https://github.com/fncolon/encryptlab/commits?author=zuramai" title="Documentation">📖</a></td>
     <td align="center"><a href="https://andriawan.com"><img src="https://avatars3.githubusercontent.com/u/13099373?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Muhammad Irwan Andriawan</b></sub></a><br /><a href="#tool-andriawan" title="Tools">🔧</a></td>
     <td align="center"><a href="https://www.dihak.my.id"><img src="https://avatars3.githubusercontent.com/u/10445482?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Dihak</b></sub></a><br /><a href="#design-dihak" title="Design">🎨</a></td>
