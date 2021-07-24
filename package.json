@@ -14,7 +14,7 @@
     "watch": "./node_modules/.bin/nodemon ./bin/www -e .ejs,.js,.html",
     "watch:css": "./node_modules/.bin/postcss public/stylesheets/tailwind.css -o public/stylesheets/style.css --watch",
     "build:css": "./node_modules/.bin/postcss public/stylesheets/tailwind.css -o public/stylesheets/style.css",
-    "test": "./node_modules/.bin/jest",
+    "test": "jest",
     "test:3des": "jest tests/3des.test.js"
   },
   "license": "MIT",
