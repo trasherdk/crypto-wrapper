@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: " Something isn't working"
 title: ''
 labels: bug
 assignees: fncolon
@@ -9,19 +9,12 @@ assignees: fncolon
 
 ## Description
 
-A clear and concise description of what the bug is.
+<!-- Describe the issue that you're seeing. -->
 
-## Steps to reproduce
+## Expected Behaviour
 
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+<!-- What should've happened? -->
 
-## Expected behavior
+## Additional Information
 
-A clear and concise description of what you expected to happen.
-
-## Additional context
-Add any other context about the problem here.
+<!-- (Optional) Any additional info that you think might come in handy for debugging. -->
