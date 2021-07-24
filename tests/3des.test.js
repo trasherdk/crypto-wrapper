@@ -7,6 +7,6 @@ test("is encrypt work?", async () => {
   expect(await encrypted).toBeTruthy();
 });
 
-test("is decrypt work?", () => {
+test("is decrypt work?", async () => {
   expect(await decrypted).toBeTruthy();
 });
